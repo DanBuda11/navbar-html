@@ -22,4 +22,4 @@ Built using:
 
 Check it out here: [surge link]
 
-[surge link]: http://reactnav-danbuda.surge.sh/
+[surge link]: http://htmlnav-danbuda.surge.sh/
