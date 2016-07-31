@@ -1,2 +1,8 @@
-// Only use vanilla JavaScript for this
-// Deploy w/Surge and change link in Readme
+navLinks = document.querySelector('.navNarrow');
+narrowLinks = document.querySelector('.narrowLinks');
+
+navLinks.addEventListener('click', toggle);
+
+function toggle() {
+	$(narrowLinks).toggle();
+};
