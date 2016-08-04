@@ -16,7 +16,6 @@ Built using:
 * HTML
 * CSS
 * A touch of JavaScript
-* A smidgeon of jQuery
 * Normalize CDN
 * Font Awesome CDN for "hamburger" icon
 
