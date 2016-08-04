@@ -43,7 +43,7 @@ nav	.navNarrow i {
 	color: #000;
 }
 
-nav .navNarrow .narrowLinks {
+.hidden {
 	display: none;
 }
 
