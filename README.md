@@ -1,7 +1,7 @@
 Simple Collapsable Navbar
 ======
 
-![Image](html-nav.png)
+<kbd>![Image](html-nav.png)</kbd>
 
 ### Why this?
 
