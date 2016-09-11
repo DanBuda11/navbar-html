@@ -1,7 +1,7 @@
 Simple Collapsable Navbar
 ======
 
-![HTML Nav Picture](https://github.com/DanBuda11/navbar-html/edit/master/html-nav.png)
+![HTML Nav Picture](https://github.com/DanBuda11/navbar-html/html-nav.png)
 
 ### Why this?
 
