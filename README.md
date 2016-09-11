@@ -1,6 +1,8 @@
 Simple Collapsable Navbar
 ======
 
+![HTML Nav Picture]{https://github.com/DanBuda11/navbar-html/edit/master/html-nav.png)
+
 ### Why this?
 
 Collapsable navbar templates such as Bootstrap exist but often include a lot of extra stuff that you have to remove if you just want something simpler. This is that something simpler. I wanted to build something extremely simple and easy to modify so that it can be used anything that just requires a simple navbar that collapses for a mobile screen.
