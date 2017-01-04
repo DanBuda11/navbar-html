@@ -21,8 +21,9 @@ Built using:
 * Normalize CDN
 * Font Awesome CDN for "hamburger" icon
 
-* Check it out here: [Link]
-* Or for a version made with React and SASS, [click here]
+Check out a live example here: [Link] or for a working CodePen: [codepen]
+Or for a version made with React and SASS, [click here]
 
 [Link]: http://htmlnav-danbuda.surge.sh/
 [click here]: https://github.com/DanBuda11/collapsable-nav
+[codepen]: http://codepen.io/danbuda/pen/gwPwjy
