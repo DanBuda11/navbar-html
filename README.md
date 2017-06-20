@@ -1,4 +1,4 @@
-Simple Collapsable Navbar
+Simple Responsive HTML/CSS Navbar
 ======
 
 <kbd>![Image](html-nav.png)</kbd>
@@ -18,7 +18,7 @@ Built using:
 * HTML
 * CSS
 * A touch of JavaScript
-* Normalize CDN
-* Font Awesome CDN for "hamburger" icon
+* Normalize.css
+* Font Awesome for "hamburger" icon
 
 Check out a live example [here](http://htmlnav-danbuda.surge.sh/) or [here](http://codepen.io/danbuda/pen/gwPwjy) for a working CodePen. For a version made with React and Sass, [click here](https://github.com/DanBuda11/collapsable-nav).
